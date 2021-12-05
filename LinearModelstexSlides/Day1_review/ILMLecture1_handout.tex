@@ -87,14 +87,19 @@ text}{fg=red}
 \begin{frame}
 \frametitle{Goals}
 \begin{itemize}
-\item We will be modeling (summarizing, drawing inferences about, making predictions about) data by reference to random variables called `statistics'.
+\item We will be modeling data.
+\begin{itemize}
+\item Summarizing complex data with less complicated formula (data reduction).
+\item Drawing inferences about causal processes.
+\item Making predictions.
+\end{itemize}
 \item To do so, we will either
 \begin{itemize}
-\item Make direct assumptions about the true distribution of the random variables.
-\item Use statistical theory to approximate the true distribution.
+\item Make direct assumptions about the way the data was generated.
+\item Use statistical theory to approximate the way the data was generated.
 \end{itemize}
-\item Then we will summarize these distributions and their relations.
-\item Here we will offer a formal, mathematical definition of random variables, their distributions, and their summaries.
+\item  In both cases, we use random variables called `statistics', their distributions and their relations.
+\item Today we review the mathematics of random variables, their distributions, and their summaries.
 \end{itemize}
 \end{frame}
 
@@ -125,7 +130,7 @@ The \alert{sample space} is the set of all things that can occur.  This set is o
 \begin{itemize}
 \item[-] $\Omega = \{$\die1\die1, \die1\die2 ,  $\hdots,$ \die6\die6$ \}$ \pause
 \end{itemize}
-\item[2)] Continuous: Price of a house
+\item[2)] Continuous: Value of a house
 \begin{itemize}
 \item[-] $\Omega = \{t: t\in \mathbb{R}\}$ 
 \end{itemize}
@@ -169,9 +174,25 @@ $$\Omega = \{h: 20 \leq h \leq 108\}, \quad E = \{h: 72 \leq h \leq 108\}$$
 $$f_H(h) =dnorm(h, \mu= 70, sd = 3)$$
 \begin{align*}
 P(E)&=\int_{72}^{108} f_H(h) dh\\\pause
+&= integrate(dnorm, lower=72, upper=108, mean= 70, sd = 3)
+&=.252
+\end{align*}
+\end{itemize}
+\end{frame}
+
+
+
+\begin{frame}
+\frametitle{Aside on Calculating integrals}
+\begin{itemize}
+\item In R there is a function pnorm(x) that calculates the integral of the normal distribution from $-\infty$ to $x$.
+\item We can then rewrite our problem in terms of these functions.
+\begin{align*}
+P(E)&=\int_{72}^{108} f_H(h) dh\\\pause
+&=\int_{-\infty}^{108} f_H(h) dh-\int_{-\infty}^{72} f_H(h) dh\\\pause
 &= F(H \leq 108)-F(H \leq 72) \ \quad \quad \textit{where F() is the anti-derivative of f()}\\\pause
 &=pnorm(108, 70, 3) - pnorm(72, 70, 3)\\\pause
-&=1-0.75
+&=1-0.747
 \end{align*}
 \end{itemize}
 \end{frame}
@@ -181,11 +202,11 @@ P(E)&=\int_{72}^{108} f_H(h) dh\\\pause
 \frametitle{Example: Short and Tall}
 \begin{itemize}
 \item What is the probability a male candidate would either at least 72 inches tall or below 65 inches?
-$$E_1 = \{h: 72 \leq h \leq 108\}$$
-$$E_2 = \{h: 20 \leq h \leq 65\}$$\pause
-$$E= E_1\cup E_2$$
-$$P(E)= P(E_1\cup E_2)=P(E_1)+P(E_2)-P(E_1\cap E_2)$$
-\begin{align*}\pause
+\begin{align*}
+E_1 &= \{h: 72 \leq h \leq 108\}\\
+E_2 &= \{h: 20 \leq h \leq 65\}\\\pause
+E&= E_1\cup E_2\\\pause
+P(E)&= P(E_1\cup E_2)=P(E_1)+P(E_2)-P(E_1\cap E_2)\\
 P(E_1\cup E_2)&=\int_{20}^{65} f_H(h) dh+\int_{72}^{108} f_H(h) dh-0\\\pause
 &= [F(H \leq 65)-F(H \leq 20)]+0.25\\\pause
 &=[pnorm(65, 70, 3)-0] +0.25\\\pause
@@ -1379,7 +1400,7 @@ E[\bar{x}(\boldsymbol{x})]&=E[\frac{1}{N}\sum_{i=1}^N x_i]\\
 \begin{itemize}
 \item Re-read over ``Review of Statistics.pdf''
 \item Read and work through "Estimators1", "Estimators2", "Estimators3.pdf"
-\item Read and work through "Proofsadvice.pdf"
+\item Finish working through "Proofsadvice.pdf"
 \end{itemize}
 \end{frame}
 

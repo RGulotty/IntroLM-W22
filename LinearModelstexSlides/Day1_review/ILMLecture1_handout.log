@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.11.8)  16 NOV 2021 22:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.11.8)  4 DEC 2021 13:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1025,27 +1025,27 @@ ftex/updmap/pdftex.map}
 
 ]
 LaTeX Font Info:    Trying to load font information for OMS+cmss on input line 
-112.
-LaTeX Font Info:    No file OMScmss.fd. on input line 112.
+117.
+LaTeX Font Info:    No file OMScmss.fd. on input line 117.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 112.
+(Font)              for symbol `textbraceleft' on input line 117.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 112
+LaTeX Font Info:    Trying to load font information for U+msa on input line 117
 .
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 112
+LaTeX Font Info:    Trying to load font information for U+msb on input line 117
 .
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 112.
+ut line 117.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
@@ -1058,269 +1058,266 @@ thkerncmss.
 
 ] [6
 
-]
-Overfull \vbox (7.54604pt too high) detected at line 195
- []
-
-[7
+] [7
 
 ] [8
 
 ] [9
 
+] [10
+
 ]
-<law-total-probability-diagram.png, id=1174, 613.29124pt x 190.7125pt>
+<law-total-probability-diagram.png, id=1287, 613.29124pt x 190.7125pt>
 File: law-total-probability-diagram.png Graphic file (type png)
 <use law-total-probability-diagram.png>
 Package pdftex.def Info: law-total-probability-diagram.png  used on input line 
-239.
+260.
 (pdftex.def)             Requested size: 180.67499pt x 56.18402pt.
- [10
+ [11
 
- <./law-total-probability-diagram.png>] [11
-
-] [12
+ <./law-total-probability-diagram.png>]
+[12
 
 ] [13
 
 ] [14
 
-]
-[15
+] [15
+
+] [16
 
 ]
-<Heightdensity.png, id=1844, 2641.87pt x 1026.83624pt>
+<Heightdensity.png, id=1963, 2641.87pt x 1026.83624pt>
 File: Heightdensity.png Graphic file (type png)
 <use Heightdensity.png>
-Package pdftex.def Info: Heightdensity.png  used on input line 326.
-(pdftex.def)             Requested size: 361.34999pt x 140.43442pt.
- [16
-
- <./Heightdensity.png>]
-<Wordsdensity.png, id=1947, 2641.87pt x 1026.83624pt>
-File: Wordsdensity.png Graphic file (type png)
-<use Wordsdensity.png>
-Package pdftex.def Info: Wordsdensity.png  used on input line 332.
+Package pdftex.def Info: Heightdensity.png  used on input line 347.
 (pdftex.def)             Requested size: 361.34999pt x 140.43442pt.
  [17
 
- <./Wordsdensity.png>] [18
+ <./Heightdensity.png>]
+<Wordsdensity.png, id=2067, 2641.87pt x 1026.83624pt>
+File: Wordsdensity.png Graphic file (type png)
+<use Wordsdensity.png>
+Package pdftex.def Info: Wordsdensity.png  used on input line 353.
+(pdftex.def)             Requested size: 361.34999pt x 140.43442pt.
+ [18
 
-] [19
+ <./Wordsdensity.png>]
+[19
+
+] [20
 
 ]
-<Heightwords.png, id=2253, 2641.87pt x 1026.83624pt>
+<Heightwords.png, id=2376, 2641.87pt x 1026.83624pt>
 File: Heightwords.png Graphic file (type png)
 <use Heightwords.png>
-Package pdftex.def Info: Heightwords.png  used on input line 364.
-(pdftex.def)             Requested size: 361.34999pt x 140.43442pt.
- [20
-
- <./Heightwords.png>]
-<Heightwordsage.png, id=2356, 2641.87pt x 1026.83624pt>
-File: Heightwordsage.png Graphic file (type png)
-<use Heightwordsage.png>
-Package pdftex.def Info: Heightwordsage.png  used on input line 370.
+Package pdftex.def Info: Heightwords.png  used on input line 385.
 (pdftex.def)             Requested size: 361.34999pt x 140.43442pt.
  [21
 
+ <./Heightwords.png>]
+<Heightwordsage.png, id=2480, 2641.87pt x 1026.83624pt>
+File: Heightwordsage.png Graphic file (type png)
+<use Heightwordsage.png>
+Package pdftex.def Info: Heightwordsage.png  used on input line 391.
+(pdftex.def)             Requested size: 361.34999pt x 140.43442pt.
+ [22
+
  <./Heightwordsage.png>]
-Overfull \vbox (4.758pt too high) detected at line 399
+Overfull \vbox (4.758pt too high) detected at line 420
  []
 
-[22
-
-] [23
+[23
 
 ] [24
 
 ] [25
 
+] [26
+
 ]
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 463.
+(Font)              using `OT1/cmss/b/it' instead on input line 484.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/it' undefined
-(Font)              using `OT1/cmss/b/n' instead on input line 463.
+(Font)              using `OT1/cmss/b/n' instead on input line 484.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 463.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 484.
 
 
-Overfull \vbox (21.14545pt too high) detected at line 463
+Overfull \vbox (21.14545pt too high) detected at line 484
  []
 
-[26
-
-] [27
+[27
 
 ] [28
 
+] [29
+
 ]
-<Udists2.pdf, id=3215, 709.36858pt x 469.4042pt>
+<Udists2.pdf, id=3348, 709.36858pt x 469.4042pt>
 File: Udists2.pdf Graphic file (type pdf)
 <use Udists2.pdf>
-Package pdftex.def Info: Udists2.pdf  used on input line 492.
+Package pdftex.def Info: Udists2.pdf  used on input line 513.
 (pdftex.def)             Requested size: 289.07999pt x 191.28947pt.
 
-Overfull \vbox (6.68106pt too high) detected at line 492
+Overfull \vbox (6.68106pt too high) detected at line 513
  []
 
-[29
+[30
 
- <./Udists2.pdf>] [30
+ <./Udists2.pdf>] [31
 
 ]
-<Udists3.pdf, id=3488, 709.36858pt x 469.4042pt>
+<Udists3.pdf, id=3623, 709.36858pt x 469.4042pt>
 File: Udists3.pdf Graphic file (type pdf)
 <use Udists3.pdf>
-Package pdftex.def Info: Udists3.pdf  used on input line 510.
+Package pdftex.def Info: Udists3.pdf  used on input line 531.
 (pdftex.def)             Requested size: 252.94499pt x 167.37381pt.
- [31
+ [32
 
- <./Udists3.pdf>] [32
+ <./Udists3.pdf>] [33
 
 ]
-<Udists4.pdf, id=3762, 709.36858pt x 469.4042pt>
+<Udists4.pdf, id=3899, 709.36858pt x 469.4042pt>
 File: Udists4.pdf Graphic file (type pdf)
 <use Udists4.pdf>
-Package pdftex.def Info: Udists4.pdf  used on input line 532.
+Package pdftex.def Info: Udists4.pdf  used on input line 553.
 (pdftex.def)             Requested size: 252.94499pt x 167.37381pt.
- [33
+ [34
 
  <./Udists4.pdf>]
-[34
-
-]
-<plot1.png, id=4048, 1806.75pt x 1204.5pt>
-File: plot1.png Graphic file (type png)
-<use plot1.png>
-Package pdftex.def Info: plot1.png  used on input line 565.
-(pdftex.def)             Requested size: 289.07999pt x 192.70555pt.
-
-Overfull \vbox (9.29718pt too high) detected at line 565
- []
-
 [35
 
- <./plot1.png>]
-<plot2.png, id=4152, 1806.75pt x 1204.5pt>
-File: plot2.png Graphic file (type png)
-<use plot2.png>
-Package pdftex.def Info: plot2.png  used on input line 574.
+]
+<plot1.png, id=4186, 1806.75pt x 1204.5pt>
+File: plot1.png Graphic file (type png)
+<use plot1.png>
+Package pdftex.def Info: plot1.png  used on input line 586.
 (pdftex.def)             Requested size: 289.07999pt x 192.70555pt.
 
-Overfull \vbox (9.29718pt too high) detected at line 574
+Overfull \vbox (9.29718pt too high) detected at line 586
  []
 
 [36
 
- <./plot2.png>]
-<plot3.png, id=4255, 1806.75pt x 1204.5pt>
-File: plot3.png Graphic file (type png)
-<use plot3.png>
-Package pdftex.def Info: plot3.png  used on input line 584.
+ <./plot1.png>]
+<plot2.png, id=4291, 1806.75pt x 1204.5pt>
+File: plot2.png Graphic file (type png)
+<use plot2.png>
+Package pdftex.def Info: plot2.png  used on input line 595.
 (pdftex.def)             Requested size: 289.07999pt x 192.70555pt.
 
-Overfull \vbox (9.29718pt too high) detected at line 584
+Overfull \vbox (9.29718pt too high) detected at line 595
  []
 
 [37
 
- <./plot3.png>] [38
+ <./plot2.png>]
+<plot3.png, id=4396, 1806.75pt x 1204.5pt>
+File: plot3.png Graphic file (type png)
+<use plot3.png>
+Package pdftex.def Info: plot3.png  used on input line 605.
+(pdftex.def)             Requested size: 289.07999pt x 192.70555pt.
 
-] [39
-
-]
-Overfull \vbox (5.23132pt too high) detected at line 628
+Overfull \vbox (9.29718pt too high) detected at line 605
  []
 
-[40
+[38
 
-] [41
+ <./plot3.png>] [39
+
+] [40
+
+]
+Overfull \vbox (5.23132pt too high) detected at line 649
+ []
+
+[41
 
 ] [42
 
 ] [43
 
+] [44
+
 ]
-Overfull \vbox (9.72205pt too high) detected at line 699
+Overfull \vbox (9.72205pt too high) detected at line 720
  []
 
-[44
-
-] [45
+[45
 
 ] [46
 
 ] [47
 
+] [48
+
 ]
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 789.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 810.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 789.
-
- [48
-
-]
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <14.4> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 813.
-
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 813.
-
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <7> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 813.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 810.
 
  [49
 
 ]
-Overfull \vbox (5.65549pt too high) detected at line 836
- []
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <14.4> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 834.
 
-[50
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 834.
+
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <7> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 834.
+
+ [50
 
 ]
-<Cauchy1.png, id=5758, 916.42375pt x 767.86874pt>
-File: Cauchy1.png Graphic file (type png)
-<use Cauchy1.png>
-Package pdftex.def Info: Cauchy1.png  used on input line 858.
-(pdftex.def)             Requested size: 916.42152pt x 767.86687pt.
-
-Overfull \hbox (12.43336pt too wide) in paragraph at lines 858--858
-[][]  
- []
-
-
-Overfull \vbox (10.09161pt too high) detected at line 858
+Overfull \vbox (5.65549pt too high) detected at line 857
  []
 
 [51
 
- <./Cauchy1.png>] [52
-
 ]
-Overfull \vbox (2.73306pt too high) detected at line 890
+<Cauchy1.png, id=5913, 916.42375pt x 767.86874pt>
+File: Cauchy1.png Graphic file (type png)
+<use Cauchy1.png>
+Package pdftex.def Info: Cauchy1.png  used on input line 879.
+(pdftex.def)             Requested size: 916.42152pt x 767.86687pt.
+
+Overfull \hbox (12.43336pt too wide) in paragraph at lines 879--879
+[][]  
  []
 
-[53
 
-]
-Overfull \hbox (4.73897pt too wide) detected at line 901
-[]
+Overfull \vbox (10.09161pt too high) detected at line 879
  []
 
+[52
 
-Overfull \vbox (3.02573pt too high) detected at line 901
+ <./Cauchy1.png>] [53
+
+]
+Overfull \vbox (2.73306pt too high) detected at line 911
  []
 
 [54
 
-] [55
+]
+Overfull \hbox (4.73897pt too wide) detected at line 922
+[]
+ []
+
+
+Overfull \vbox (3.02573pt too high) detected at line 922
+ []
+
+[55
 
 ] [56
 
@@ -1328,61 +1325,61 @@ Overfull \vbox (3.02573pt too high) detected at line 901
 
 ] [58
 
+] [59
+
 ]
-<halfcircle.pdf, id=6570, 505.89pt x 505.89pt>
+<halfcircle.pdf, id=6733, 505.89pt x 505.89pt>
 File: halfcircle.pdf Graphic file (type pdf)
 <use halfcircle.pdf>
-Package pdftex.def Info: halfcircle.pdf  used on input line 962.
+Package pdftex.def Info: halfcircle.pdf  used on input line 983.
 (pdftex.def)             Requested size: 216.81pt x 216.81056pt.
 
-Overfull \vbox (9.32864pt too high) detected at line 962
+Overfull \vbox (9.32864pt too high) detected at line 983
  []
 
-[59
+[60
 
- <./halfcircle.pdf>] [60
+ <./halfcircle.pdf>] [61
 
 ]
-<roof.pdf, id=6779, 505.89pt x 505.89pt>
+<roof.pdf, id=6944, 505.89pt x 505.89pt>
 File: roof.pdf Graphic file (type pdf)
 <use roof.pdf>
-Package pdftex.def Info: roof.pdf  used on input line 979.
+Package pdftex.def Info: roof.pdf  used on input line 1000.
 (pdftex.def)             Requested size: 216.81pt x 216.81056pt.
 
-Overfull \vbox (9.32864pt too high) detected at line 979
+Overfull \vbox (9.32864pt too high) detected at line 1000
  []
 
-[61
+[62
 
- <./roof.pdf>] [62
-
-] [63
+ <./roof.pdf>] [63
 
 ] [64
 
+] [65
+
 ]
-<Anscomb.png, id=7214, 2890.8pt x 2102.85625pt>
+<Anscomb.png, id=7382, 2890.8pt x 2102.85625pt>
 File: Anscomb.png Graphic file (type png)
 <use Anscomb.png>
-Package pdftex.def Info: Anscomb.png  used on input line 1030.
+Package pdftex.def Info: Anscomb.png  used on input line 1051.
 (pdftex.def)             Requested size: 252.94499pt x 183.98663pt.
- [65
+ [66
 
  <./Anscomb.png>]
-Overfull \vbox (6.69528pt too high) detected at line 1048
+Overfull \vbox (6.69528pt too high) detected at line 1069
  []
 
-[66
+[67
 
-] [67
+] [68
 
 ]
-Overfull \vbox (4.78662pt too high) detected at line 1092
+Overfull \vbox (4.78662pt too high) detected at line 1113
  []
 
-[68
-
-] [69
+[69
 
 ] [70
 
@@ -1390,29 +1387,29 @@ Overfull \vbox (4.78662pt too high) detected at line 1092
 
 ] [72
 
+] [73
+
 ]
-<ConditionalExp1.pdf, id=8036, 505.89pt x 505.89pt>
+<ConditionalExp1.pdf, id=8213, 505.89pt x 505.89pt>
 File: ConditionalExp1.pdf Graphic file (type pdf)
 <use ConditionalExp1.pdf>
-Package pdftex.def Info: ConditionalExp1.pdf  used on input line 1155.
+Package pdftex.def Info: ConditionalExp1.pdf  used on input line 1176.
 (pdftex.def)             Requested size: 216.81pt x 216.81056pt.
 
-Overfull \vbox (9.32864pt too high) detected at line 1155
- []
-
-[73
-
- <./ConditionalExp1.pdf>]
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 1176
-.
-
-Overfull \vbox (6.88145pt too high) detected at line 1176
+Overfull \vbox (9.32864pt too high) detected at line 1176
  []
 
 [74
 
-] [75
+ <./ConditionalExp1.pdf>]
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 1197
+.
+
+Overfull \vbox (6.88145pt too high) detected at line 1197
+ []
+
+[75
 
 ] [76
 
@@ -1420,41 +1417,43 @@ Overfull \vbox (6.88145pt too high) detected at line 1176
 
 ] [78
 
-]
-Overfull \vbox (17.39172pt too high) detected at line 1251
- []
-
-[79
-
-] [80
+] [79
 
 ]
-Overfull \vbox (4.1538pt too high) detected at line 1295
+Overfull \vbox (17.39172pt too high) detected at line 1272
  []
 
-[81
+[80
+
+] [81
+
+]
+Overfull \vbox (4.1538pt too high) detected at line 1316
+ []
+
+[82
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-1315.
+1336.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [82
+) [83
 
 ]
-[83
-
-] [84
+[84
 
 ] [85
 
+] [86
+
 ]
-Overfull \vbox (4.85332pt too high) detected at line 1373
+Overfull \vbox (4.85332pt too high) detected at line 1394
  []
 
-[86
+[87
 
-] [87
+] [88
 
 ]
 \tf@nav=\write8
@@ -1474,10 +1473,10 @@ Package rerunfilecheck Info: File `ILMLecture1_handout.out' has not changed.
 (rerunfilecheck)             Checksum: 328F3B2B20B5B7ED5C5F01579459161B;1069.
  ) 
 Here is how much of TeX's memory you used:
- 27630 strings out of 478579
- 552953 string characters out of 5853443
- 1021054 words of memory out of 5000000
- 44752 multiletter control sequences out of 15000+600000
+ 27634 strings out of 478579
+ 552990 string characters out of 5853443
+ 1021857 words of memory out of 5000000
+ 44754 multiletter control sequences out of 15000+600000
  430243 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,19n,124p,423b,760s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1503,10 +1502,10 @@ cm/cmsy7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm
 ols/msbm10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/
 sfso1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sf
 ss1095.pfb>
-Output written on ILMLecture1_handout.pdf (87 pages, 2750538 bytes).
+Output written on ILMLecture1_handout.pdf (88 pages, 2757119 bytes).
 PDF statistics:
- 9737 PDF objects out of 10688 (max. 8388607)
- 9188 compressed objects within 92 object streams
- 185 named destinations out of 1000 (max. 500000)
+ 9930 PDF objects out of 10688 (max. 8388607)
+ 9377 compressed objects within 94 object streams
+ 187 named destinations out of 1000 (max. 500000)
  1103 words of extra memory for PDF output out of 10000 (max. 10000000)
 
